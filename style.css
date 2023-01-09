@@ -1,0 +1,46 @@
+* {
+	font-family : "Lexend";
+}
+
+#title {
+	text-align : center;
+	text-transform: uppercase;
+}
+
+#messages {
+	height : 400px;
+	font-size : 1.2rem;
+	overflow : scroll;
+}
+
+#messageBox {
+	width : 98%;
+	margin-bottom : 10px;
+	padding : 10px 12px;
+	font-size : 1.2rem;
+}
+
+#send {
+	width : 100%;
+	padding : 10px 12px;
+	font-size : 1.2rem;
+	cursor : pointer;
+}
+
+@media (max-width: 1200px) {
+	#messageBox {
+		width : 97.2%;
+	}
+}
+
+@media (max-width: 991px) {
+	#messageBox {
+		width : 97%;
+	}
+}
+
+@media (max-width: 756px) {
+	#messageBox {
+		width : 96%;
+	}
+}
