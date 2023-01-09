@@ -37,14 +37,18 @@ In order to enhance to this project, just make a contribution by doing a pull re
 ## 2 Presentation & Examples
 ### 2.1 Structure
 After following the instructions above, the project structure may look like this :
+
 ![project_structure](img/project-structure.png)
 
 ### 2.2 Example
 > Connect yourself by entering your name
+
 ![result](img/first-client-connection.png)
 
 > Connect the other client by entering someone else name
+
 ![result](img/second-client-connection.png)
 
 > Start texting or messaging with the other client
+
 ![result](img/darryl-leon-real-time-messaging.png)
